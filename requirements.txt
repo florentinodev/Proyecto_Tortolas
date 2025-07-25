@@ -1,0 +1,8 @@
+streamlit
+Pillow
+ultralytics==8.0.20
+opencv-python-headless==4.8.0.76
+pyyaml
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2

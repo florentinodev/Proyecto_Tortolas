@@ -1,0 +1,25 @@
+name: Build and deploy Docker app to Azure Web App - tortolas-app2025
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Log in to Azure using Publish Profile
+      uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
+
+    - name: Deploy Docker image to Azure Web App
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: 'tortolas-app2025'
+        images: 'tortolas'

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+python-3.9
+=======
+python-3.10
+>>>>>>> cf1eec9 (Estructura reorganizada con app.py y utils.py en raíz del proyecto)

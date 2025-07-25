@@ -1,0 +1,14 @@
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test_images
+
+nc: 8
+names: 
+  - camioneta
+  - estructura
+  - generador
+  - tuberia
+  - antena
+  - piezometro
+  - retroexcavadora
+  - estructura2
