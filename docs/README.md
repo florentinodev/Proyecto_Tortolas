@@ -56,4 +56,6 @@ Monitoreo: uso de CPU ≤30% durante inferencia (usando top)
 
 
 ## 🎥 Demostración
-[![Ver video en YouTube](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=Epf_IBGuYOg)
+
+[![Ver video en YouTube](https://img.youtube.com/vi/Epf_IBGuYOg/0.jpg)](https://www.youtube.com/watch?v=Epf_IBGuYOg)
+
