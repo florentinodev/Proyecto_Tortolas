@@ -57,5 +57,6 @@ Monitoreo: uso de CPU ≤30% durante inferencia (usando top)
 
 ## 🎥 Demostración
 
-[![Ver video en YouTube](https://img.youtube.com/vi/Epf_IBGuYOg/0.jpg)](https://www.youtube.com/watch?v=Epf_IBGuYOg)
+
+[![Ver video en YouTube](https://github.com/florentinodev/Proyecto_Tortolas/raw/main/assets/demo.gif.gif)](https://www.youtube.com/watch?v=Epf_IBGuYOg)
 
